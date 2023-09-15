@@ -1,0 +1,9 @@
+{
+  "defaultGene": "HA",
+  "defaultRef": "EPI1846961",
+  "enabled": true,
+  "geneOrderPreference": ["HA"],
+  "metadata": {},
+  "name": "flu_h5nx_ha",
+  "nameFriendly": "Influenza A H5Nx HA"
+}

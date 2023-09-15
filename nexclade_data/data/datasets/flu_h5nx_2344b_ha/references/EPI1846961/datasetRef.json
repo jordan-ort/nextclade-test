@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "metadata": {},
+  "reference": {
+    "source": "GISAID",
+    "accession": "EPI1846961",
+    "strainName": "A/Astrakhan/3212/2020"
+  }
+}
