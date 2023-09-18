@@ -1,0 +1,3 @@
+##gff-version 3
+##sequence-region EPI1846961 1 1776
+EPI1846961	feature	gene	29	1732	.	+	.	gene_name="HA"
