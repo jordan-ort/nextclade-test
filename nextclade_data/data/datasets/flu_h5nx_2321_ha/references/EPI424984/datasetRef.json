@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "metadata": {},
+  "reference": {
+    "source": "GISAID",
+    "accession": "EPI424984",
+    "strainName": "A/duck/Vietnam/NCVD-1584/2012"
+  }
+}
